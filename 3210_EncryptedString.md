@@ -5,13 +5,12 @@ LeetCode No: 3210
 
 ## ✍️ My Rough Work
 
-## ✍️ My Rough Work
-
 ### Page 1
 ![Notes1](3210_EncryptedString_Notes1.jpg)
 
 ### Page 2
 ![Notes2](3210_EncryptedString_Notes2.jpg)
+
 ---
 
 ## 💡 My Approach
