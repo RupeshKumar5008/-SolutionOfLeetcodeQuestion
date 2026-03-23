@@ -9,7 +9,7 @@ LeetCode No: 3210
 ![Notes1](Strings/3210_EncryptedString/Strings/3210_EncryptedString/WhatsApp Image 2026-03-23 at 15.51.11.jpeg → 3210_EncryptedString_Notes2.jpg)
 
 ### Page 2
-![Notes2](3210_EncryptedString_Notes2.jpg)
+![Notes2](Strings/3210_EncryptedString/Strings/3210_EncryptedString/WhatsApp Image 2026-03-23 at 15.50.40.jpeg → 3210_EncryptedString_Notes1.jpg)
 
 ---
 
