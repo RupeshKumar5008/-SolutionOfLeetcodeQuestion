@@ -46,10 +46,16 @@ class Solution {
         k = n - k;
 
         char[] arr = s.toCharArray();
-
+*left rotation:........
         reverse(arr, 0, n - 1);
         reverse(arr, 0, k - 1);
         reverse(arr, k, n - 1);
+*right rotation:.........
+        reverse(arr, k, n - 1);
+         reverse(arr, 0, n - 1);
+        reverse(arr, 0, k - 1);
+
+
 
         return new String(arr); 
     }
